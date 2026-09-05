@@ -1,0 +1,23 @@
+# Python virtual environment
+src/env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data
+data/processed/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Trained models
+models/
+*.joblib
+*.pkl
+
+# OS/editor files
+.DS_Store
+Thumbs.db

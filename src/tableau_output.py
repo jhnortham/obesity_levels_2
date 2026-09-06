@@ -72,7 +72,7 @@ print(tableau_output[[
 
 # save to CSV
 tableau_output.to_csv(
-    "../data/processed/obesity_taableau_predictions.csv",
+    "../data/processed/obesity_tableau_predictions.csv",
     index=False
 )
 
